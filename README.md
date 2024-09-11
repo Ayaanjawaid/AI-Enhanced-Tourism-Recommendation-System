@@ -22,6 +22,13 @@ streamlit run app.py
 This will start the app, and you can open the link generated (usually http://localhost:8501/) in your browser.
 
 How It Works
-User Input: The user inputs their preferences (e.g., budget, type of travel, desired activities) via the web interface.
+
+User Input: 
+The user inputs their preferences (e.g., budget, type of travel, desired activities) via the web interface.
 Model Processing: The app uses TF-IDF Vectorization and cosine similarity to analyze user preferences and match them to the most relevant destinations in the dataset.
 Recommendations: The system returns a list of recommended destinations that best fit the user’s input, along with details such as budget category, type of destination, and user ratings.
+
+APP PREVIEW:
+![Screenshot 2024-09-11 211418](https://github.com/user-attachments/assets/f4f32e6a-7aae-4415-929f-3863d798c393)
+
+
