@@ -18,6 +18,7 @@ Pandas (for data manipulation)
 Pillow (for handling images)
 
 streamlit run app.py
+
 This will start the app, and you can open the link generated (usually http://localhost:8501/) in your browser.
 
 How It Works
